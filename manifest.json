@@ -1,0 +1,14 @@
+{
+  "name": "Buzz Mobilizer Extension",
+  "version": "0.1",
+  "description": "Use the excellent Buzz mobile client in a Chrome Extension. KNOWN ISSUE: User profile links fail.",
+  "icons": {
+     "128": "buzz-icon-128.png",
+     "32": "buzz-icon-32.png"
+  },
+  "browser_action": {
+    "default_icon": "buzz-icon-32.png",
+    "popup": "popup.html"
+  },
+  "permissions": [ "tabs", "http://*.google.com/", "https://*.google.com/" ]
+}
