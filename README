@@ -1,0 +1,12 @@
+Buzz Mobilizer Extension
+https://chrome.google.com/extensions/detail/mghfmhkekcpknpgphanbgcjlekikmbln
+
+Buzz Mobilizer wraps the excellent Buzz mobile site and allows it to be accessed in a Chrome Extension Popup. The Buzz mobile site can be accessed from your browser at: https://m.google.com/app/buzz?force=1 
+
+There are two limitations that you should be aware of:
+1) Links to user profiles fail.
+2) Location services are unavailable.
+
+Buzz me if you find this extension useful or have any suggestions.
+http://buzz.google.com/dshaw7
+
